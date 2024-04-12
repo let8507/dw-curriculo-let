@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: rgba(230, 140, 238, 0.918);
+    color: rgb(85, 14, 201);
+}
+
+h2{
+    color: #270666;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+dt{
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(98, 0, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+dd{
+    font-size: 16px;
+}
+
+table{
+    width: 100%;
+}
+
+th, td{
+    border: 1px solid #290172;
+}
+
+th{
+    background-color: rgb(168, 94, 238);
+}
+
+  h1 {
+    color: rgb(60, 6, 104);
+    text-shadow: 6px 6px 8px #570dcf;
+  }
+
+  /*https://www.w3schools.com/cssref/playdemo.php?filename=playcss_text-shadow*/
+
+  img/lydia.webp {
+    vertical-align: text-top;
+  }
+
+  .content-box {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid black;
+    box-sizing: content-box;
+  }
+
+  /* Utilizando border-box */
+  .border-box {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid black;
+    box-sizing: border-box;
+  }
+
+  .container {
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: bottom;
+  }
+
+
+ 
